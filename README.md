@@ -39,7 +39,7 @@ Acceptance Criteria
 
 ## Demo Video
 
-[![Product Name Screen Shot](/Develop/public/assets/demogif.gif)](https://drive.google.com/file/d/1pkmBHycdGcfTj8JjpRY_jhNoouerSqw2/view?usp=sharing)
+[![Product Name Screen Shot](./public/assets/demogif.gif)](https://drive.google.com/file/d/1pkmBHycdGcfTj8JjpRY_jhNoouerSqw2/view?usp=sharing)
 
 
 ## Built With
