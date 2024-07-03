@@ -3,7 +3,7 @@
 ## Access Application
 Project Link: [https://github.com/danielleboe/notesapp](https://github.com/danielleboe/notesapp)
 <br>
-App Link: https://danielleboe.github.io/notesapp/
+App Link: https://note-app-ynb3.onrender.com/
 
 ## Description
 An app that allows a user to create, save, view and delete notes.
@@ -31,11 +31,15 @@ Acceptance Criteria
 - THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 
 ## Usage
-1. Clone the Repo to a local environment.
-2. Install Express npm install express fs path
-3. Run node server.js in directory
-4. Navigate web browser to http://localhost:3001/
 
+### Usage on local machine
+1. Clone the Repo to a local environment.
+2. Install express and run npm install express
+3. Run node server.js
+3. Navigate web browser to http://localhost:3001/ if using on local machine
+
+### View live app
+Live app rendered at https://note-app-ynb3.onrender.com/
 
 ## Demo Video
 
