@@ -5,9 +5,6 @@ Project Link: [https://github.com/danielleboe/notesapp](https://github.com/danie
 <br>
 App Link: https://danielleboe.github.io/notesapp/
 
-
-## About The Project
-
 ## Description
 An app that allows a user to create, save, view and delete notes.
 
@@ -42,11 +39,12 @@ Acceptance Criteria
 
 ## Demo Video
 
-[![Product Name Screen Shot](/develop/demogif.gif)](https://drive.google.com/file/d/1pkmBHycdGcfTj8JjpRY_jhNoouerSqw2/view?usp=sharing)
+[![Product Name Screen Shot](/Develop/public/assets/demogif.gif)](https://drive.google.com/file/d/1pkmBHycdGcfTj8JjpRY_jhNoouerSqw2/view?usp=sharing)
 
 
-### Built With
+## Built With
 Express
+Node
 
 <!-- LICENSE -->
 ## License
